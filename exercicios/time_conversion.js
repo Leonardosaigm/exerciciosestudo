@@ -23,6 +23,9 @@ function timeConversion(s) {
 const tempo = "11:59:59PM"
 timeConversion(tempo)
 
+// link do exercício
+// https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one
+
 // Material de apoio
 // https://www.w3schools.com/js/js_comparisons.asp#gsc.tab=0
 // https://www.w3schools.com/js/js_assignment.asp

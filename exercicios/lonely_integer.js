@@ -15,6 +15,9 @@ const listinha = [1, 2, 3, 4, 3, 2, 1];
 
 lonelyinteger(listinha)
 
+// Link do exercício
+// https://www.hackerrank.com/challenges/one-month-preparation-kit-lonely-integer/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one
+
 // https://www.w3schools.com/js/js_arrays.asp
 // https://www.w3schools.com/jsref/jsref_sort.asp
 // https://www.w3schools.com/jsref/jsref_push.asp
