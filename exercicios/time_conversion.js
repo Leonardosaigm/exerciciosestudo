@@ -22,3 +22,9 @@ function timeConversion(s) {
 
 const tempo = "11:59:59PM"
 timeConversion(tempo)
+
+// Material de apoio
+// https://www.w3schools.com/js/js_comparisons.asp#gsc.tab=0
+// https://www.w3schools.com/js/js_assignment.asp
+// https://www.w3schools.com/js/js_string_methods.asp
+// https://www.w3schools.com/jsref/jsref_tostring_number.asp
